@@ -43,11 +43,14 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 <br/><br/>
 
 + To find out the outputs for DFT calculation using Quantum Espresso (e.g. structure, density of states, charge density), go to [**Data/DFT**](Data/DFT).
+<br/><br/>
+
++ All the DFT calculations were conducted using **Quantum ESPRESSO 6.4**. 
 
 ## Dependencies
 + Python 3.x <br/>
-+ numpy <br/>
-+ Scipy <br/>
-+ Scikit-learn
++ numpy >1.25 <br/>
++ Scipy >1.11.2 <br/>
++ Scikit-learn >1.3.2
 
 
