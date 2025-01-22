@@ -1,7 +1,8 @@
 # entropy-screened-BO
 
 ## Contents
-
+**[Overview](
+https://github.com/user-attachments/assets/f50458a2-79e6-4c31-89fb-8c291689cae2)**
 
 ## Overview
 This is a repository with open source code and the data for the paper "Artificial Intelligence-Driven Discovery of High-Entropy Alloys for Optimal Water Splitting Using Configuration Entropy and Design of Experiments". <br/>
