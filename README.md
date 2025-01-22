@@ -2,7 +2,13 @@
 
 ## Contents
 **[Overview](
-https://github.com/user-attachments/assets/f50458a2-79e6-4c31-89fb-8c291689cae2)**
+https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#overview)**
+<br/>
+**[Implementing the code](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main#implementing-the-code)**
+<br/>
+**[Dependencies](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#dependencies)**
+<br/>
+**[Paper Abstract](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#paper-abstract)**
 
 ## Overview
 This is a repository with open source code and the data for the paper "Artificial Intelligence-Driven Discovery of High-Entropy Alloys for Optimal Water Splitting Using Configuration Entropy and Design of Experiments". <br/>
