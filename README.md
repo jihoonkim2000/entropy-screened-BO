@@ -45,9 +45,9 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 + To find out the input files for DFT calculation (using Quantum Espresso), go to [**Data**](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main/Data).
 
 ## Dependencies
-Python 3.x
-<br/>numpy
-<br/>Scipy
-<br/>Scikit-learn
++ Python 3.x <br/>
++ numpy <br/>
++ Scipy <br/>
++ Scikit-learn
 
 
