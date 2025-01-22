@@ -13,6 +13,9 @@ https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#overvie
 + **[Dependencies](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#dependencies)**
 
 
++ Acknowledgements
+
+
 ## Overview
 This is a repository with open source code and the data for the paper "Artificial Intelligence-Driven Discovery of High-Entropy Alloys for Optimal Water Splitting Using Configuration Entropy and Design of Experiments". <br/>
 + Schematic illustration of the entire optimization procedure
@@ -53,4 +56,5 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 + Scipy >1.11.2 <br/>
 + Scikit-learn >1.3.2
 
-
+## Acknowledgements
++ This research was supported by the National Research Foundation of Korea (2022M3H4A1A04096482, RS-2023-00229679) funded by the Ministry of Science and ICT.
