@@ -2,9 +2,9 @@
 ## About
 This is a repository with open source code and the data for the paper "Artificial Intelligence-Driven Discovery of High-Entropy Alloys for Optimal Water Splitting Using Configuration Entropy and Design of Experiments".
 <br/><br/>
-+ To run the **entropy-screened BO.ipynb** in **Model** folder, use **Entropy-screened BO dataset.csv** in **Data/Experimental**.
++ To run the [**entropy-screened BO.ipynb**](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/Model/Entropy-screened%20BO.ipynb) in **Model** folder, use [**Entropy-screened BO dataset.csv**](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/Data/Experimental/Entropy-screened%20BO%20dataset.csv) in **Data/Experimental**.
 <br/><br/>
-+ To run the [**Bare BO.ipynb**](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/Data/Experimental/Bare%20BO%20dataset.csv) with upper confidence bound in **Model** folder, use **Bare BO dataset.csv** in **Data/Experimental**.
++ To run the [**Bare BO.ipynb**](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/Model/Bare%20BO.ipynb) with upper confidence bound in **Model** folder, use [**Bare BO dataset.csv**](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/Data/Experimental/Bare%20BO%20dataset.csv) in **Data/Experimental**.
 <br/><br/>
 + Training the GPR model and plotting the overpotential with respect to element composition may take few minutes, depending on your hardware.
 <br/><br/>
