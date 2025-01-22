@@ -2,8 +2,11 @@
 ## About
 This is a repository with open source code and the data for the paper "Artificial Intelligence-Driven Discovery of High-Entropy Alloys for Optimal Water Splitting Using Configuration Entropy and Design of Experiments". 
 <br/>To run the entropy-screened BO.ipynb in Model folder, use Entropy-screened BO dataset.csv in Data/Experimental.
+<br/>
 <br/>To run the Bare BO.ipynb with upper confidence bound in Model folder, use Bare BO dataset.csv in Data/Experimental. 
+<br/>
 <br/>Training the GPR model and plotting the overpotential with respect to element composition may take few minutes, depending on your hardware.
+<br/>
 <br/>To find out the crystal structures governed by SQS computation, go to Data/Structures.
 
 ## Paper Abstract
