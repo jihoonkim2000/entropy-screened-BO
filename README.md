@@ -54,7 +54,8 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 + Python 3.x <br/>
 + numpy >1.25 <br/>
 + Scipy >1.11.2 <br/>
-+ Scikit-learn >1.3.2
++ Scikit-learn >1.3.2 <br/>
++ SHAP (can be installed either from pip or conda-forge) 
 
 ## Acknowledgements
 + This research was supported by the National Research Foundation of Korea (2022M3H4A1A04096482, RS-2023-00229679) funded by the Ministry of Science and ICT.
