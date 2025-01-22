@@ -4,10 +4,13 @@
 + **[Overview](
 https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#overview)**
 <br/>
+
 + **[Implementing the code](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main#implementing-the-code)**
 <br/>
+
 + **[Dependencies](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#dependencies)**
 <br/>
+
 + **[Paper Abstract](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#paper-abstract)**
 
 ## Overview
