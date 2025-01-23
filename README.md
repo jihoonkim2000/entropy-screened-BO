@@ -64,3 +64,4 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 
 
 ## Contact/Bug report
++ For inquiries regarding the paper or bug report of the code given, please send an email to jihoonkim@kaist.ac.kr
