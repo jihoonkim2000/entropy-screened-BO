@@ -63,4 +63,4 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 + This research was supported by the National Research Foundation of Korea (2022M3H4A1A04096482, RS-2023-00229679) funded by the Ministry of Science and ICT.
 
 
-## Contact info
+## Contact/Bug report
