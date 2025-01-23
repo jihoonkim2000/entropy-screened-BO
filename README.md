@@ -7,7 +7,7 @@ https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#overvie
 + **[Paper Abstract](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#paper-abstract)**
   
 
-+ **[Implementing the code](Figures)**
++ **[Implementing the code](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#implementing-the-ml-model--dft-calculation)**
 
 
 + **[Dependencies](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#dependencies)**
