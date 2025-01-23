@@ -44,6 +44,8 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 + Training the GPR model and plotting the overpotential with respect to element composition may take few minutes, depending on your hardware.
 <br/><br/>
 
++ To reproduce the figures in the paper, go to [**Data/Figures**]
+
 + To find out the crystal structures governed by SQS computation, go to [**Data/Structures**](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main/Data/Structures).
 <br/><br/>
 
