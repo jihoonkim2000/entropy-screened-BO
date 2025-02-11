@@ -1,8 +1,7 @@
 # entropy-screened-BO
 
 ## Contents
-+ **[Overview](
-https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#overview)**
++ **[Overview](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#overview)**
 
 + **[Paper Abstract](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#paper-abstract)**
   
