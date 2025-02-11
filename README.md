@@ -12,7 +12,7 @@
 + **[Dependencies](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#dependencies)**
 
 
-+ **[Acknowledgements](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#acknowledgements)**
++ **[Acknowledgements](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#acknowledgements)**
 
 
 + **[Contact/Bug report](https://github.com/jihoonkim2000/entropy-screened-BO/blob/main/README.md#contactbug-report)**
