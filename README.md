@@ -18,7 +18,7 @@
 + **[Contact/Bug report](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#contactbug-report)**
   
 ## Overview
-This is a repository with open source code and the data for the paper "Artificial Intelligence-Driven Discovery of High-Entropy Alloys for Optimal Water Splitting Using Configuration Entropy and Design of Experiments". <br/>
+This is a repository with open source code and the data for the paper "Artificial intelligence-driven discovery of multi-principal element alloys for optimal water splitting using configuration entropy and design of experiments". <br/>
 + Schematic illustration of the entire optimization procedure
 
 ![Bayesian Optimization](https://github.com/user-attachments/assets/2bbf421b-ab5e-47fa-9391-395da2577e90)
