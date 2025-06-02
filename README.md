@@ -1,4 +1,4 @@
-# Artificial intelligence-driven discovery of multi-principal element alloys for optimal water splitting using configuration entropy and design of experiments
+# Artificial intelligence-driven discovery of multi-principal element alloys for optimal water splitting 
 
 ## Contents
 + **[Overview](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main?tab=readme-ov-file#overview)**
