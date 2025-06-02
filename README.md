@@ -21,7 +21,7 @@
 This is a repository with open source code and the data for the paper "Artificial intelligence-driven discovery of multi-principal element alloys for optimal water splitting using configuration entropy and design of experiments". <br/>
 + Schematic illustration of the entire optimization procedure
 
-(https://github.com/user-attachments/assets/d3bcc24e-dd7c-4031-9a6f-46f00901277e)
+[Schematic illustration of the framework](https://github.com/user-attachments/assets/d3bcc24e-dd7c-4031-9a6f-46f00901277e)
 
 
 + 3D reconstruction of final MPEA
