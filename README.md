@@ -50,7 +50,7 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 
 + To reproduce the figures in the paper, go to [**Figures**](Figures)
 
-+ To fetch raw DOS data, go to [**Figures**](Figures)
++ To fetch raw DOS data, go to [**Data/DFT/DOS**](Data)(DFT)(DOS)
 
 + All the DFT calculations were conducted using **Quantum ESPRESSO 6.4**. 
 
