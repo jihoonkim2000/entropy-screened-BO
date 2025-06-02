@@ -50,11 +50,7 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 
 + To reproduce the figures in the paper, go to [**Figures**](Figures)
 
-+ To find out the crystal structures governed by SQS computation, go to [**Data/Structures**](https://github.com/jihoonkim2000/entropy-screened-BO/tree/main/Data/Structures).
-<br/><br/>
-
-+ To find out the outputs for DFT calculation using Quantum Espresso (e.g. structure, density of states, charge density), go to [**Data/DFT**](Data/DFT).
-<br/><br/>
++ To fetch raw DOS data, go to [**Figures**](Figures)
 
 + All the DFT calculations were conducted using **Quantum ESPRESSO 6.4**. 
 
