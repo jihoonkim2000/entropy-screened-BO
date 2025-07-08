@@ -54,8 +54,6 @@ Water splitting for hydrogen production is essential in advancing the hydrogen e
 
 + To fetch raw DOS data, go to [**Data/DFT/DOS**](Data/DFT/DOS)
 
-+ To get the supercell we used for modelling (111), (110) slabs of MPEA and Co50Ni40Pd5Pt5, go to [**Data/DFT/Structures**](Data/DFT/Structures)
-
 + All the DFT calculations were conducted using **Quantum ESPRESSO 6.4**. 
 
 ## Dependencies
